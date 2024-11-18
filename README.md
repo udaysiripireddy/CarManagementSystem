@@ -21,5 +21,9 @@ the functionalities of this  application
 * add new data functionality
 * jwt functionality
 
+finaly you should create dotenv file that store 
+MONGODB_URL,SECERT_KEY,PORT
+
+then run the project.
 
   Thanks for consideration.
